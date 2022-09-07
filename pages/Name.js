@@ -1,7 +1,7 @@
 import { Paper, Typography, Box, Divider } from '@mui/material'
 import Image from 'next/image'
 import React from 'react'
-import Pic from '../public/Pic2.JPG'
+import Pic from '../public/Pic2.jpg'
 const Name = () => {
   return (
     <div>
