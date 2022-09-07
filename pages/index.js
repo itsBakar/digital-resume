@@ -29,10 +29,10 @@ export default function Home() {
         <About/>
         </Grid>
         <Grid xs={12} item>
-        <Experiance/>
+        <Education/>
         </Grid>
         <Grid xs={12} item>
-        <Education/>
+        <Experiance/>
         </Grid>
         <Grid xs={12} item>
         <Skills/>
