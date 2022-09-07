@@ -13,7 +13,7 @@ import React from 'react'
 const Education = () => {
   return (
     <div>
-            <Typography m={1} variant='h5' color={'primary'}>Experiance</Typography>
+            <Typography m={1} variant='h5' color={'primary'}>Education</Typography>
             <Divider sx={{backgroundColor:'#1976d2'}}/>
             <Timeline>
               <TimelineItem>
